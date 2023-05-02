@@ -2,7 +2,7 @@
 - Not selling this. Personal USE ONLY.
 
 # What is this?
-- A personal project, to optimize Windows 10 22h2 (FoxOS) for Valorant Gaming with a bunch of tweaks, programs, all to get the best fps and lowest possible latency without corrupting the respective OS.
+- A personal project, to optimize Windows 10 22h2 (FoxOS) for VALORANT with a bunch of tweaks, programs, all to get the best fps and lowest possible latency without corrupting the respective OS.
 
 # Functions
 - Downloads and Install a ISO (FoxOS).
