@@ -37,8 +37,8 @@
 
 
 # Download
-- Release
-**https://github.com/gzmatte/YAWT/releases/tag/1**
+
+**https://github.com/gzmatte/YAWT/releases/download/1/YAWT.bat**
 
 
 
