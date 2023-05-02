@@ -34,3 +34,15 @@
 - Includes a Razer Synapse Debloater.
 - Automatic CleanUps Temps folders.
 - A Lot of Tweaks for Valorant.
+
+
+# Download
+- Release
+**https://github.com/gzmatte/YAWT/releases/tag/1**
+
+
+
+# Credits
+- KernelPanic, Matishzz, imribiy, Pablerso, SpotX, Gosheto, Rapado, CatGamerOP, etc.
+
+
