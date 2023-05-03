@@ -41,10 +41,9 @@
 
 # ISOS RECOMMENDED
 - imOS 22h2
-- FoxOS 22h2
-- EagleOS 22h2 & 1809
-- KernelOS 22h2 & 1809 (test w11)
-
+- FoxOS
+- EagleOS
+- KernelOS
 
 
 # Credits
