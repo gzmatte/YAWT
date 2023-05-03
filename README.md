@@ -1,5 +1,5 @@
 # Yes Another Windows Tweaker
-- Not selling this. Personal USE ONLY.
+- Not selling this. I do this for me only.
 
 # What is this?
 - A personal project, to optimize Windows 10 for GAMING, with a bunch of tweaks, programs, all to get the best fps and lowest possible latency without corrupting the respective OS.
