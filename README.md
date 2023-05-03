@@ -37,7 +37,7 @@
 - Includes a Razer Synapse Debloater.
 - Automatic CleanUps Temps folders.
 - A Lot of Tweaks for Valorant.
-AND A LOT MORE.
+- AND A LOT MORE.
 
 # Credits
 - KernelPanic, Matishzz, imribiy, Pablerso, SpotX, Gosheto, Rapado, CatGamerOP, etc.
