@@ -2,14 +2,13 @@
 - Not selling this. Personal USE ONLY.
 
 # What is this?
-- A personal project, to optimize Windows 10 22h2 (FoxOS) for VALORANT with a bunch of tweaks, programs, all to get the best fps and lowest possible latency without corrupting the respective OS.
+- A personal project, to optimize Windows 10 for GAMING, with a bunch of tweaks, programs, all to get the best fps and lowest possible latency without corrupting the respective OS.
 
 # Download
 
 **https://github.com/gzmatte/YAWT/releases/download/1/YAWT.bat**
 
 # Functions
-- Downloads and Install a ISO (FoxOS).
 - Installs Firefox & Debloats it.
 - Installs 7zip.
 - Installs Timer Resolution Background Service.
@@ -38,6 +37,7 @@
 - Includes a Razer Synapse Debloater.
 - Automatic CleanUps Temps folders.
 - A Lot of Tweaks for Valorant.
+AND A LOT MORE.
 
 # Credits
 - KernelPanic, Matishzz, imribiy, Pablerso, SpotX, Gosheto, Rapado, CatGamerOP, etc.
