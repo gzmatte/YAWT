@@ -39,5 +39,13 @@
 - A Lot of Tweaks for Valorant.
 - AND A LOT MORE.
 
+# ISOS RECOMMENDED
+- imOS 22h2
+- FoxOS 22h2
+- EagleOS 22h2 & 1809
+- KernelOS 22h2L & 1809
+
+
+
 # Credits
 - KernelPanic, Matishzz, imribiy, Pablerso, SpotX, Gosheto, Rapado, CatGamerOP, etc.
